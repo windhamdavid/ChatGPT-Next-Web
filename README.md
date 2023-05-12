@@ -1,5 +1,9 @@
 👉🏼 Fork of <https://github.com/Yidadaa/ChatGPT-Next-Web>
 
+Using this fork to help keep my information local while allowing me to store custom prompts.
+
+---
+
 ## Features
 
 - Privacy first, all data stored locally in the browser
